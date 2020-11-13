@@ -35,3 +35,11 @@ suma maxima pe care pot sa o investesc
 forum cu discutii pe diverse aspecte (materii, probleme organizatorice, sfaturi, ..), la care sa se faca acces in functie de rolul fiecaruia (elev, profesor, consultant in educatie, ...)
 
 Link live: https://roguetesting.club/devHacks2020/
+
+Funcționalități suplimentare:
+-survery profesori
+-gamification
+-hartă / hot spot / help
+-tutoriale
+-asistent integrat (js over front)
+-wiki (tutoriale)

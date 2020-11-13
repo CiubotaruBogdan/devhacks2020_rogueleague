@@ -8,8 +8,8 @@ Impartirea platformei in trei module (una pentru fiecare temă a concursului) + 
 3) Ajută (“1 din 5 copii parasesc..”), care sa fie publica (sa nu necesite login in platforma)
 4) Conectează-te (“Crearea unei comunitati..”)
 
----1--- Pagina de start (landing page), cu mai multe sectiuni (fiecare cu imagine sugestiva ca background):
--descrierea platformei
+---1--- Pagina de start (landing page), cu mai multe sectiuni (fiecare cu imagine sugestiva ca background):\
+-descrierea platformei\
 -cele trei module, din care sa se poata alege
 -asistent virtual in platforma, care sa ghideze profesorii si elevii
 -crearea unei diagrame cu Whimsical cu toate componentele implementate, ce poate fi prezentata mentorilor si incorporata in prezentarea finala
